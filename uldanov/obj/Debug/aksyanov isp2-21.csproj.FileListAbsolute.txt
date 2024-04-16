@@ -1,0 +1,11 @@
+C:\Users\Professional\Desktop\aksyanov isp2-21\bin\Debug\aksyanov isp2-21.exe.config
+C:\Users\Professional\Desktop\aksyanov isp2-21\bin\Debug\aksyanov isp2-21.exe
+C:\Users\Professional\Desktop\aksyanov isp2-21\bin\Debug\aksyanov isp2-21.pdb
+C:\Users\Professional\Desktop\aksyanov isp2-21\obj\Debug\aksyanov isp2-21.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\aksyanov isp2-21\obj\Debug\aksyanov isp2-21.csproj.SuggestedBindingRedirects.cache
+C:\Users\Professional\Desktop\aksyanov isp2-21\obj\Debug\aksyanov_isp2_21.Form1.resources
+C:\Users\Professional\Desktop\aksyanov isp2-21\obj\Debug\aksyanov_isp2_21.Properties.Resources.resources
+C:\Users\Professional\Desktop\aksyanov isp2-21\obj\Debug\aksyanov isp2-21.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\aksyanov isp2-21\obj\Debug\aksyanov isp2-21.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\aksyanov isp2-21\obj\Debug\aksyanov isp2-21.exe
+C:\Users\Professional\Desktop\aksyanov isp2-21\obj\Debug\aksyanov isp2-21.pdb
